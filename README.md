@@ -1,10 +1,8 @@
-## Hi there 👋
+## Hi, I'm Victor Hugo Soto, a Computer Systems Engineer 👋
 
-<!--
-**VicVaporub14/VicVaporub14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer with backend knowledge
 
-Here are some ideas to get you started:
-
+About me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
