@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Systems Engineering** 
 - **Backend:** Node.js, Express, Zod, Swager
 - **Databases:** MySQL, PostgreSQL, MongoDB (working with databases for my projects)
 - **Other:** Agile, Scrum, ITIL, Prolog (starting to learn it!)
+
 [![My Skills](https://skillicons.dev/icons?i=react,ts,vite,tailwind,express,nextjs)](https://skillicons.dev)
 
 ## 📫 Get in Touch
