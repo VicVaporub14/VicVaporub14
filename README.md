@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Systems Engineering** 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,vite,tailwind,nodejs,express)](https://skillicons.dev)
 
 ## 📫 Get in Touch
-- 💼 [LinkedIn](#) [*(Add your LinkedIn link here)*](https://linkedin.com/in/víctor-hugo-soto-gándara-357a752a4)
+- 💼 [LinkedIn](https://linkedin.com/in/víctor-hugo-soto-gándara-357a752a4)
 - 🌎 [Portfolio](#) 
 - 📩 Feel free to reach out for collaboration or just to say hi!
 
