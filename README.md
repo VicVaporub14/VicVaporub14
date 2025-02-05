@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Systems Engineering** 
 - **Databases:** MySQL, PostgreSQL, MongoDB (working with databases for my projects)
 - **Other:** Agile, Scrum, ITIL, Prolog (starting to learn it!)
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,vite,tailwind,express,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,vite,tailwind,nodejs,express)](https://skillicons.dev)
 
 ## 📫 Get in Touch
 - 💼 [LinkedIn](#) *(Add your LinkedIn link here)*
