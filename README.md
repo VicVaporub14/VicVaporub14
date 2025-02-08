@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Systems Engineering** 
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS
 - **Backend:** Node.js, Express, Zod, Swager
 - **Databases:** MySQL, PostgreSQL, MongoDB (working with databases for my projects)
-- **Other:** Agile, Scrum, ITIL, Prolog (starting to learn it!)
+- **Other:** Agile, Scrum, ITIL(starting to learn it!)
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,vite,tailwind,nodejs,express)](https://skillicons.dev)
 
