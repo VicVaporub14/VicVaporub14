@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Systems Engineering** 
 - **Databases:** MySQL, PostgreSQL, MongoDB (working with databases for my projects)
 - **Other:** Cloud Computing, Networking, DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,vite,tailwind,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,vite,tailwind,dotnet,nodejs,express)](https://skillicons.dev)
 
 ## 📫 Get in Touch
 - 💼 [LinkedIn](https://linkedin.com/in/víctor-hugo-soto-gándara-357a752a4)
