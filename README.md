@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate **Computer Systems Engineering** 
 
 ## 🚀 About Me
 - 🎓 **Engineering Student** | Studying **Computer Systems Engineering** at Instituto Tecnologico Superior de Lerdo
-- 💻 **Aspiring Web Developer** | Learning **TypeScript, React, and Node.js**
-- 🔍 Preparing for **web development internships**, particularly focusing on **React**
+- 💻 **Aspiring Web Developer** | Learning **ASP.NET Core, React, TypeScript and Node.js**
+- 🔍 Preparing for **web development internships**, particularly focusing on **React and .NET**
 
 ## 🛠 Tech Stack & Skills
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS
